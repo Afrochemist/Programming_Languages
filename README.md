@@ -3,7 +3,7 @@
 # Programming Languages.
 
 ## About the Project
-This project provides basic examples of many programming languages and briefly covers major topics for beginners. These examples are made to help beginners understand and see samples of the programming language they are trying to learn. Currently we are working on the following languages: Assembly x86/64, C, C++, Python, Arduino.
+This project provides basic examples of many programming languages and briefly covers major topics for beginners. These examples are made to help beginners understand and see samples of the programming language they are trying to learn.
 
 ## Contributing
 If you want to contribute to this little "hobby project", either file a issue report (if there's a syntax mistake for example) or do a pull request to provide a new code. NOTE: view the C folder to see a good example. Not only should all the code for a specific programming language be in its respective folder (i.e. C, Python, etc.), but also the topics you want to cover should be their own labeled folder (like chapters of a textbook).
@@ -39,9 +39,9 @@ Essentially, you'll want to:
 9. Now submit the pull request (PR).
 10. If I accept your PR, then it will now be in the code, otherwise I will leave comments on how to improve your PR.
 
-## Contact
-Our Discord Group: https://discord.gg/E3SkYGJhju
+## IMPORTANT NOTES
+-Do NOT submit PRs with folders containing compiled binaries/.o files
 
-Thank you! Happy coding!!
+-You can only share source code files/folders, along side with the compilation method (in case of C/C++ make or cmake is preferred, or a simple script file to compile with gcc/g++ commands).
 
-![](logo.jpg) 
+-You are not forced to follow a indentation style, just make sure the code is properly readable.
